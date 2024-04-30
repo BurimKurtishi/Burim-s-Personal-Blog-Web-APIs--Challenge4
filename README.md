@@ -14,3 +14,6 @@ Click the "Submit" button to save the blog post locally.
 
 Url 
 
+deployed to:  https://burimkurtishi.github.io/Burim-s-Personal-Blog-Web-APIs--Challenge4/
+
+repo:  https://github.com/BurimKurtishi/Burim-s-Personal-Blog-Web-APIs--Challenge4
